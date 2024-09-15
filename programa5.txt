@@ -1,0 +1,14 @@
+Descobrir qual interruptor controla qual lâmpada:
+
+1 - Ligue o interruptor 1 e deixe-o ligado por 5 minutos.
+Desligue o interruptor 1 após 5 minutos.
+
+2 - Ligue o interruptor 2.
+
+3 - Visite as salas das lâmpadas e observe:
+
+Lâmpada Acesa: controlada pelo interruptor 2.
+Lâmpada Quente (mas Desligada): controlada pelo interruptor 1.
+Lâmpada Fria e Desligada: controlada pelo interruptor 3.
+
+
